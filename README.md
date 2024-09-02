@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi, I'm Özkan Bulut, a Junior Backend Developer with experience in Java and Spring Framework. I enjoy working on backend development and am always eager to learn and grow. Currently seeking opportunities to apply my skills and contribute to meaningful projects.
+Hi, I'm Özkan Bulut, a dedicated Full-Stack Developer based in Ankara, Turkey, with a strong focus on backend
+technologies. Proficient in Java, Spring Boot, and backend architecture, While my expertise lies primarily in backend
+development, I also have hands-on experience with frontend technologies like Angular and React. Currently seeking opportunities to apply my skills and contribute to meaningful projects.
 
 
 ## 🌐 Socials:
