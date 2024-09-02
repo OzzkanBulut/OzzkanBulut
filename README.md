@@ -12,4 +12,3 @@ development, I also have hands-on experience with frontend technologies like Ang
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=OzzkanBulut&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OzzkanBulut&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OzzkanBulut&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
